@@ -1,5 +1,5 @@
-# Fish-like-Robots-Pose-Dataset
-Fish-like-Robots-2D-Pose-Dataset is a dataset for robotic fish pose estimation from **[Intelligent Biomimetic Design Laboratory (IBDLab)](http://en.ibdl.pku.edu.cn/)** of Peking University.  There are 818 frames of random labeled images, 500 frames of a labeled video and 9953 frames of unlabeled videos.
+# Robotic-Fish-Pose-Dataset
+Robotic-Fish-Pose-Dataset is a dataset for robotic fish pose estimation from **[Intelligent Biomimetic Design Laboratory (IBDLab)](http://en.ibdl.pku.edu.cn/)** of Peking University.  There are 818 frames of random labeled images, 500 frames of a labeled video and 9953 frames of unlabeled videos.
 
 # Download the Dataset
 
