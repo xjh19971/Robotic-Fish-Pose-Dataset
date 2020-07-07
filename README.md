@@ -19,7 +19,7 @@ The structure of dataset is shown as follows. **The label file is [COCO](https:/
 
 The labels includes the keypoints of **heads, bodys, tails** and the bounding boxes of individual fishes are generated from keypoint data.  **Note that the attributes of `segmentation` and `is_crowded` are unavaliable.**
 
-![Label](E:\Robotic-Fish-Pose-Dataset\Figures\Label.jpg)
+<img src="./Figures/Label.jpg" alt="FishPrototype" style="zoom: 100%;" />
 
 ```
 Dataset
