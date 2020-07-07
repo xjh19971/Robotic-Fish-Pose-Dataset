@@ -9,9 +9,9 @@ You can get this dataset from [google drive](). After downloading the zip file, 
 
 The dataset contains different scenes of multiple robotic fishes, including some difficult scene like dense collision with the boundary and other fishes, Intense light reflection and twisted fish body. The resolution of each image is **752x480**. 
 
-<img src="./Figures/Sample (1).jpg" alt="FishPrototype" style="zoom: 50%;" /> <img src="./Figures/Sample (2).jpg" alt="FishPrototype" style="zoom: 50%;" />
+<img src="./Figures/Sample (1).jpg" alt="Sample" width="380"/> <img src="./Figures/Sample (2).jpg" alt="Sample" width="380" />
 
-<img src="./Figures/Sample (3).jpg" alt="FishPrototype" style="zoom: 50%;" /> <img src="./Figures/Sample (4).jpg" alt="FishPrototype" style="zoom: 50%;" />
+<img src="./Figures/Sample (3).jpg" alt="Sample" width="380" /> <img src="./Figures/Sample (4).jpg" alt="Sample" width="380" />
 
 # Dataset Structure
 
@@ -19,7 +19,7 @@ The structure of dataset is shown as follows. **The label file is [COCO](https:/
 
 The labels includes the keypoints of **heads, bodys, tails** and the bounding boxes of individual fishes are generated from keypoint data.  **Note that the attributes of `segmentation` and `is_crowded` are unavaliable.**
 
-<img src="./Figures/Label.jpg" alt="FishPrototype" style="zoom: 100%;" />
+<img src="./Figures/Label.jpg" alt="Sample" style="zoom: 100%;" />
 
 ```
 Dataset
@@ -51,7 +51,7 @@ Dataset
 # Experimental Platform
 The robotic fishes are designed to mimic the morphology and kinematics of carp. It consists of a rigid head, a flexible body and a caudal fin with a total length of 0.443m. Data is collected from a platform which consists of a 3x2 m pool and a vertically global view camera 3 m above.
 
-<img src="./Figures/FishPrototype.png" alt="FishPrototype" style="zoom: 20%;" /><img src="./Figures/FishPlatform.png" alt="FishPlatform" style="zoom: 40%;" /> 
+<img src="./Figures/FishPrototype.png" alt="FishPrototype" height="180" /><img src="./Figures/FishPlatform.png" alt="FishPlatform" height="200" /> 
 
 
 
