@@ -1,6 +1,19 @@
 # Robotic-Fish-Pose-Dataset
 Robotic-Fish-Pose-Dataset is a dataset for robotic fish pose estimation from **[Intelligent Biomimetic Design Laboratory (IBDLab)](http://en.ibdl.pku.edu.cn/)** of Peking University.  There are 818 frames of random labeled images, 500 frames of a labeled video and 9953 frames of unlabeled videos.
 
+If you find our work useful in your research please consider citing our paper:
+'''
+@ARTICLE{9530612,
+  author={Zhang, Tianhao and Xiao, Jiuhong and Li, Liang and Wang, Chen and Xie, Guangming},
+  journal={IEEE/CAA Journal of Automatica Sinica}, 
+  title={Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks}, 
+  year={2021},
+  volume={8},
+  number={12},
+  pages={1964-1976},
+  doi={10.1109/JAS.2021.1004228}}
+'''
+
 # Download the Dataset
 
 You can get this dataset from **[google drive](https://drive.google.com/file/d/19VOjZYqX83yEV79cPoG_1tD5Pztwv0Eg/view?usp=sharing)**. After downloading the zip file, extract it to a `Dataset` folder and enjoy yourselves!
