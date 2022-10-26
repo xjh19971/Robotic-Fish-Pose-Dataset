@@ -16,7 +16,7 @@ If you find our work useful in your research please consider citing our paper:
 
 # Download the Dataset
 
-You can get this dataset from **[google drive](https://drive.google.com/file/d/19VOjZYqX83yEV79cPoG_1tD5Pztwv0Eg/view?usp=sharing)**. After downloading the zip file, extract it to a `Dataset` folder and enjoy yourselves!
+You can get this dataset from **[google drive](https://drive.google.com/file/d/19VOjZYqX83yEV79cPoG_1tD5Pztwv0Eg/view?usp=sharing)**. After downloading the zip file, extract it to a `Dataset` folder and you can start to use it.
 
 # Sample images
 
