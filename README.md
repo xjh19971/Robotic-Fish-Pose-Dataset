@@ -1,4 +1,5 @@
 # Robotic-Fish-Pose-Dataset
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face%20Dataset-Robotic-Fish-blue.svg)](https://huggingface.co/datasets/xjh19972/Robotic-Fish-Pose-Dataset)
 Robotic-Fish-Pose-Dataset is a dataset for robotic fish pose estimation from **[Intelligent Biomimetic Design Laboratory (IBDLab)](http://en.ibdl.pku.edu.cn/)** of Peking University.  There are 818 frames of random labeled images, 500 frames of a labeled video and 9953 frames of unlabeled videos.
 
 If you find our work useful in your research please consider citing our paper:
@@ -16,7 +17,7 @@ If you find our work useful in your research please consider citing our paper:
 
 # Download the Dataset
 
-You can get this dataset from **[google drive](https://drive.google.com/file/d/19VOjZYqX83yEV79cPoG_1tD5Pztwv0Eg/view?usp=sharing)**. After downloading the zip file, extract it to a `Dataset` folder and you can start to use it.
+You can get this dataset from **[huggingface](https://huggingface.co/datasets/xjh19972/Robotic-Fish-Pose-Dataset)**. After downloading the zip file, extract it to a `Dataset` folder and you can start to use it.
 
 # Sample images
 
