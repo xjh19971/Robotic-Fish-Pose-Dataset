@@ -1,3 +1,5 @@
+
+
 # Robotic-Fish-Pose-Dataset
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face%20Dataset-RoboticFish-blue.svg)](https://huggingface.co/datasets/xjh19972/Robotic-Fish-Pose-Dataset)
 
@@ -32,7 +34,7 @@ The dataset contains different scenes of multiple robotic fishes, including some
 
 The structure of dataset is shown as follows. **The label file is [COCO](https://cocodataset.org/#format-data) format json file**. Please use [COCOAPI](https://github.com/cocodataset/cocoapi)  to read the labels. The labeled video has been divided into images for compatibility with COCO format. The dataset is divided into two parts: 200 frames of one video for test and the others for training.
 
-The labels includes the keypoints of **heads, bodys, tails** and the bounding boxes of individual fishes are generated from keypoint data.  **Note that the attributes of `segmentation` and `is_crowded` are unavaliable.**
+The labels includes the keypoints of **heads, bodys, tails** and the bounding boxes of individual fishes are generated from keypoint data.  **Note that the attributes of `segmentation` and `is_crowded` are unavailable.**
 
 <img src="./Figures/Label.jpg" alt="Sample" style="zoom: 100%;" />
 
@@ -66,11 +68,4 @@ Dataset
 # Experimental Platform
 The robotic fishes are designed to mimic the morphology and kinematics of carp. It consists of a rigid head, a flexible body and a caudal fin with a total length of 0.443m. Data is collected from a platform which consists of a 3x2 m pool and a vertically global view camera 3 m above.
 
-<img src="./Figures/FishPrototype.png" alt="FishPrototype" height="180" /><img src="./Figures/FishPlatform.png" alt="FishPlatform" height="200" /> 
-
-
-
-
-
-
-
+<img src="./Figures/FishPrototype.png" alt="FishPrototype" height="180" /><img src="./Figures/FishPlatform.png" alt="FishPlatform" height="200" />
